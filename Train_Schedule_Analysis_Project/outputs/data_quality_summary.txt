@@ -1,0 +1,7 @@
+Rows: 186074
+Columns: 12
+Unique train numbers: 11113
+Unique station codes: 8147
+Exact duplicates: 0
+Missing values in source: 0
+Computable endpoint journey durations: 11113 of 11113 train/route groups
